@@ -51,6 +51,7 @@ Cross-validation is performed to assess the model's predictive accuracy and gene
 ### Predictions
 Future predictions are made for the next 52 weeks to analyze expected usage and costs.
 
-<img width="1300" alt="Screenshot 2024-04-13 at 2 54 37 PM" src="https://github.com/PurvaB25/pge_prophet/assets/100107332/5c5e5bd7-38d7-474e-8b8c-454c1b337578">
+<img width="1282" alt="Screenshot 2024-04-13 at 3 11 54 PM" src="https://github.com/PurvaB25/pge_prophet/assets/100107332/79657d99-c89a-4469-a54d-22e11e149ca6">
+
 
 
